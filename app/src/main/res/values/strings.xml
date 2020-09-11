@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReCounter</string>
+    <string name="add_button_cd">Add button</string>
+    <string name="remove_button_cd">Remove button</string>
+</resources>
